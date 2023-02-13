@@ -1,3 +1,4 @@
 First line
 Second line (from remote repository)
 Delete DC_Store
+Third line (again from remote repository)
