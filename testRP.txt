@@ -1,5 +1,5 @@
 First line
 Second line (from remote repository)
-Delete DC_Store
-Third line (again from remote repository)
-IntelliJ IDEA
+Third line (delete DC_Store)
+Fourth line (again from remote repository)
+Fifth line (IntelliJ IDEA)
