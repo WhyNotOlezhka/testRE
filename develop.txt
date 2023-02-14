@@ -6,3 +6,4 @@ touch test_2/open3.txt
 cd test_2
 ifconfig en0> open2.txt
 ifconfig en1> open3.txt
+zip -r test_2 test_2
