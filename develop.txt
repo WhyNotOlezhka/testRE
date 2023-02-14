@@ -1,7 +1,8 @@
 Test branch
 #!/bin/sh
-mkdir test_1
-touch test_1/open1.txt
-cd test_1
-ifconfig en0> open1.txt
-zip -r test_1 test_1
+mkdir test_2
+touch test_2/open2.txt
+touch test_2/open3.txt
+cd test_2
+ifconfig en0> open2.txt
+ifconfig en1> open3.txt
