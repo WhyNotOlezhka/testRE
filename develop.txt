@@ -4,4 +4,5 @@ mkdir test_1
 touch test_1/open1.txt
 cd test_1
 ifconfig en0> open1.txt
-zip -r test_1 test_1
+mkdir test_2
+mv desktop/test_1/open1.txt desktop/test_2/open1.txt
