@@ -3,3 +3,5 @@ Second line (from remote repository)
 Third line (delete DC_Store)
 Fourth line (again from remote repository)
 Fifth line (IntelliJ IDEA)
+Sixth line (New-branch)
+
